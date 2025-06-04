@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Uday Singh (aka @KAAZamapiloT)!
 
 🎮 Game Developer | 🤖 Robotics Enthusiast | 💻 CSE Undergrad at IIIT Vadodara
+"Break it. Build it better. Repeat."
+
 
 ---
 
@@ -9,9 +11,11 @@ I'm a passionate game developer and tech enthusiast who loves building immersive
 
 ---
 
-## 👨‍💻 What I'm Working On
-- 🔧 Enhancing my projects built with **Unreal Engine 5** and **C++**
-- 🤖 Experimenting with **ESP8266**, motor drivers, and web-controlled robots
+## 👨‍💻 Currently Building  
+- 🔥 A **custom game engine** using OpenGL, SDL3, ImGui — codename: `KnightEngine`  
+- 🎮 Pro-level UE5 + C++ horror and snow-themed games  
+- 🧠 AI-powered tools for editors, chatbots, and dev pipelines  
+- 🤖 ESP8266 robot systems with **real-time mobile/web controls**
 
 ---
 
@@ -23,7 +27,7 @@ I'm a passionate game developer and tech enthusiast who loves building immersive
 
 ## 🛠️ Technologies & Tools
 - 🎮 **Game Dev:** Unreal Engine 5, Blueprints, Unity (basics)
-- 💻 **Languages:** C++
+- 💻 **Languages:** C++, Rust (learning), Python
 - 🧰 **Tools:** Git,Figma, VS Code
 - ⚙️ **Robotics:** ESP32, Arduino, BTS7906B, Motor Drivers
 
