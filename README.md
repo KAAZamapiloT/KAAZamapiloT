@@ -8,6 +8,18 @@ _"Break it. Build it better. Repeat."_
 ## 🚀 About Me
 I'm a passionate game developer and tech enthusiast who thrives on building immersive digital experiences and powerful tools for creators. My current obsession? **Game engines**—from designing custom architectures to optimizing real-time rendering and interactive systems. Whether it’s exploring AI for horror games, crafting modular open worlds, or fine-tuning microcontroller-controlled robots, I love pushing creative boundaries through code and design.
 
+> ### 🧠 Design Philosophy
+> **Build systems that survive uncertainty.**
+>
+> - Context over scripts  
+> - Black-box systems scale
+> - Break → Observe → Build Better  
+> - Failure is mandatory  
+> - Data beats logic sprawl  
+> - Emergence > authoring  
+>
+> *If a system can’t fail safely, it doesn’t belong in a real engine.*
+
 ---
 
 ## 👨‍💻 Currently Focusing On  
