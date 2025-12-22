@@ -39,8 +39,8 @@ I'm a passionate game developer and tech enthusiast who thrives on building imme
 ## 🛠️ Technologies & Tools
 - 🎮 **Game Dev:** Unreal Engine 5, Blueprints, Unity (basics)
 - 🛠️ **Game Engines:** OpenGL, SDL3, ImGui, custom engine architectures
-- 💻 **Languages:** C++, Rust (learning), Python
-- 🧰 **Tools:** Git, Figma, VS Code
+- 💻 **Languages:** C++
+- 🧰 **Tools:** Git, VS Code
 - ⚙️ **Robotics:** ESP32, Arduino, BTS7906B, Motor Drivers
 
 ---
